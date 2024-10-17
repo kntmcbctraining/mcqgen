@@ -1,0 +1,7 @@
+1. openai 
+2. langchain
+3. streamlit - for webapi
+4. python-dotenv
+5. PyPDF2
+
+
